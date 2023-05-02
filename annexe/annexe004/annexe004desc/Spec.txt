@@ -1,0 +1,53 @@
+External steel frame size - 8400mm (w) x 5400mm (l)
+
+Internal steel frame size - 8194mm (w) x 5194mm (l)
+
+
+Pitched
+
+External steel frame ridge height - 3385mm
+
+External steel frame eaves height - 2400mm
+
+Internal ceiling height (vaulted) - 2750mm
+
+Roof Pitch - 24 degrees
+
+
+Flat (323)
+
+External steel frame height (at highest point) - 2568mm
+
+Internal steel frame height (at lowest point) - 2255mm
+
+
+Front elevation structural opening size 1 (Door) - 2400mm (w) x 2155mm (h)
+
+Front elevation structural opening size 2 (Window) - 1150mm (w) x 1000mm (h)
+
+Side elevation (left) structural opening size (Window) - 1150mm (w) x 1000mm (h)
+
+Rear elevation structural opening (Window) - 550mm (w) x 1000mm (h)
+
+
+Pitched (220)
+
+Floor sections @ max. 600 crs (RCJS)
+Wall sections @ max. 600crs (RCJS)
+Roof sections @ max. 600crs (RCJS)
+Ceiling sections @ max. 600crs (RCJS)
+
+No overhangs included
+
+Flat (323)
+
+Floor sections @ max. 600 crs (RCJS)
+Wall sections @ max. 600crs (RCJS)
+Roof sections @ max. 600crs (FJS)
+
+Overhangs included on flat roof options
+
+100mm overhang on front
+100mm overhang on rear 
+100mm overhang on sides
+
